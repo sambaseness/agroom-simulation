@@ -1,0 +1,8 @@
+{
+  "name": "AgRoom simulation",
+  "description": "Interactive 3D visualization and presentation site for the AgRoom cold room facility.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
